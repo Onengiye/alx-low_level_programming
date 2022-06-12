@@ -6,13 +6,13 @@
 int main(void)
 {	int i;
 	char c;
-	long-int li;
-	long-long ll;
+	long int li;
+	long long int ll;
 	float f;
 	printf("Size of a char: %c", sizeof(c));
-	printf("Size of an int: %i", sizeof(i));
-	printf("Size of a long int: %i", sizeof(li));
-	printf("Size of a long long int: %i", sizeof(ll));
-	printf("Size of a float: %f", sizeof(f));
+	printf("Size of an int: %c", sizeof(i));
+	printf("Size of a long int: %c", sizeof(li));
+	printf("Size of a long long int: %c", sizeof(ll));
+	printf("Size of a float: %c", sizeof(f));
 	return (0);
 }
