@@ -6,7 +6,7 @@
  * main - Is a number positive, negatibe or zero
  *
  * Description: Get a random number and check if its positive
- * 
+ *
  * Return: Success 0
  */
 int main(void)
