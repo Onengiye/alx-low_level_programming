@@ -14,7 +14,7 @@ int main(void)
 	char n;
 	
 	n = 'a';
-	while(c <= 'z')
+	while(n <= 'z')
 	{
 		putchar('n');
 		n++;
