@@ -11,16 +11,16 @@
  */      
 int main(void)
 {
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
-	_putchar('\n');
+	_putcha1r('_');
+	_putcha1r('p');
+	_putcha1r('u');
+	_putcha1r('t');
+	_putcha1r('c');
+	_putcha1r('h');
+	_putcha1r('a');
+	_putcha1r('h');
+	_putcha1r('a');
+	_putcha1r('r');
+	_putcha1r('\n');
 	return (0);
 }
