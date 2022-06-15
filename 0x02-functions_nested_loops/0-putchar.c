@@ -18,7 +18,6 @@ int main(void)
 	_putcha1r('c');
 	_putcha1r('h');
 	_putcha1r('a');
-	_putcha1r('a');
 	_putcha1r('r');
 	_putcha1r('\n');
 	return (0);
