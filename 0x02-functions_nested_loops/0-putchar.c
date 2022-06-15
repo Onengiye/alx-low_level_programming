@@ -8,7 +8,7 @@
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
  *
- */      
+ */
 int main(void)
 {
 	_putcha1r('_');
@@ -18,7 +18,6 @@ int main(void)
 	_putcha1r('c');
 	_putcha1r('h');
 	_putcha1r('a');
-	_putcha1r('h');
 	_putcha1r('a');
 	_putcha1r('r');
 	_putcha1r('\n');
