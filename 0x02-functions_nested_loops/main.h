@@ -19,15 +19,4 @@ int _putcha1r(char c)
  *
  * Return: Void, No return value
 */
-void print_alphabet(void)
-{
-	char i;
-
-	i = 'a';
-	while ( i <= 'z' )
-	{
-		_putcha1r(i);
-		i++;
-	}
-	_putcha1r('\n');
-}
+void print_alphabet(void);

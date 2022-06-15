@@ -9,8 +9,15 @@
  * On error, -1 is returned, and errno is set appropriately.
  *
  */
-int main(void)
+void print_alphabet()
 {
-	/*print_alphabet();*/
-	return (0);
+	char i;
+
+        i = 'a';
+	while ( i <= 'z' )
+	{
+		_putcha1r(i);
+		i++;
+	}
+	_putcha1r('\n');
 }
