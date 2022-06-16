@@ -1,5 +1,4 @@
-#include <stdlib>
-#include <stdio>
+#include <stdio.h>
 
 int _putchar(char c);
 int _isupper(int c);
