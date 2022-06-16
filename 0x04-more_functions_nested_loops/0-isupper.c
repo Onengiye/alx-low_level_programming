@@ -9,7 +9,7 @@
  */
 int _isupper(int c)
 {
-	int i = isupper(c);
+	int i = isupper(c + '0');
 
 	if (i > 0)
 	{
