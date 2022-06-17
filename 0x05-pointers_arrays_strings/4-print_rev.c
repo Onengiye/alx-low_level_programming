@@ -9,11 +9,11 @@
 */
 void print_rev(char *s)
 {
-	int length = strlen(s);
+	int length = strlen(s) - 1;
 
 	while (length >= 0)
 	{
-		_putchar(*(s+(length - 1)));
+		_putchar(*(s + length));
 		length--;
 	}
 	_putchar('\n');
