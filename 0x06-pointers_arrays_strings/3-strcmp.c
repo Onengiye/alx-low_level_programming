@@ -2,11 +2,11 @@
 #include <string.h>
 
 /**
- * _strcmp - Compares two strings 
+ * _strcmp - Compares two strings
  * @s1: Parameter
  * @s2: Parameter
  *
- * Return:int
+ * Return: int
 */
 int _strcmp(char *s1, char *s2)
 {
