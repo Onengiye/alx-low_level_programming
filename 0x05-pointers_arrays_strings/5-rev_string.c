@@ -11,9 +11,9 @@ void rev_string(char *s)
 {
 	int length = strlen(s) - 1;
 	int counter = 0;
-	char *d = s
+	char *d = s;
 
-	while (length >= 0 || counter <= length)
+	while (length >= 0 && counter <= length)
 	{
 		*(s + counter) = *(d + length);
 		length--;
